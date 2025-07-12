@@ -64,8 +64,6 @@ mklink /J "C:\Users\Bin\AppData\Local\Google" "D:\NewAppdata\Google"
 
 如果没有问题就输入刚刚的两个地址即可
 
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/8c31e670-d3cf-44dd-a8e5-5d808a1c4b6b" />
-
 
 <img width="1132" height="637" alt="image" src="https://github.com/user-attachments/assets/a1a66bc9-c403-4efa-b6c4-debdacc7737a" />
 
