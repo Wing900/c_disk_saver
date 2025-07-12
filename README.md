@@ -36,7 +36,7 @@ mklink /J "C:\Users\Bin\AppData\Local\Google" "D:\NewAppdata\Google"
 - 在`C:\Users\Bin\AppData\Local`下发现占用极大的文件,可能有很多
 - 这里我以`GitHubDesktop`为例
 
-<img width="1122" height="559" alt="image" src="https://github.com/user-attachments/assets/3be97b76-9312-4681-90ab-e207ebf7e2fd" />
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/8c31e670-d3cf-44dd-a8e5-5d808a1c4b6b" />
 
 
 - 找到了之后选中-右键-复制路径地址,这个地址就是我们的**源文件夹**
