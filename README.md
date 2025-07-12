@@ -36,7 +36,8 @@ mklink /J "C:\Users\Bin\AppData\Local\Google" "D:\NewAppdata\Google"
 - 在`C:\Users\Bin\AppData\Local`下发现占用极大的文件,可能有很多
 - 这里我以`GitHubDesktop`为例
 
-<img src="images/c_disk_saver教程/c_disk_saver教程-step-1-20250712-151442.png" alt="步骤 1" style="zoom: 50%;" />
+<img width="1122" height="559" alt="image" src="https://github.com/user-attachments/assets/3be97b76-9312-4681-90ab-e207ebf7e2fd" />
+
 
 - 找到了之后选中-右键-复制路径地址,这个地址就是我们的**源文件夹**
 
@@ -63,9 +64,11 @@ mklink /J "C:\Users\Bin\AppData\Local\Google" "D:\NewAppdata\Google"
 
 如果没有问题就输入刚刚的两个地址即可
 
-![image-20250712151750649](C:/Users/%E6%9B%BE%E8%89%BA%E5%BD%AC/AppData/Roaming/Typora/typora-user-images/image-20250712151750649.png)
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/8c31e670-d3cf-44dd-a8e5-5d808a1c4b6b" />
 
-![image-20250712151844563](C:/Users/%E6%9B%BE%E8%89%BA%E5%BD%AC/AppData/Roaming/Typora/typora-user-images/image-20250712151844563.png)
+
+<img width="1132" height="637" alt="image" src="https://github.com/user-attachments/assets/a1a66bc9-c403-4efa-b6c4-debdacc7737a" />
+
 
 ## 步骤4
 
@@ -73,8 +76,10 @@ mklink /J "C:\Users\Bin\AppData\Local\Google" "D:\NewAppdata\Google"
 
 一般来说,对于一些软件,会自动退出登录,但是数据还是在的
 
-![image-20250712152051896](C:/Users/%E6%9B%BE%E8%89%BA%E5%BD%AC/AppData/Roaming/Typora/typora-user-images/image-20250712152051896.png)
+<img width="1255" height="723" alt="image" src="https://github.com/user-attachments/assets/25f46d4f-5c74-47fb-864b-d91bec71395d" />
 
-![image-20250712152117696](C:/Users/%E6%9B%BE%E8%89%BA%E5%BD%AC/AppData/Roaming/Typora/typora-user-images/image-20250712152117696.png)
+
+<img width="1252" height="325" alt="image" src="https://github.com/user-attachments/assets/5bca95b7-7017-496c-9733-4f614a696fd8" />
+
 
 但是有的文件需要更深层的文件权限,可能会导致转移失败
