@@ -25,7 +25,7 @@ mklink /J "C:\Users\Bin\AppData\Local\Google" "D:\NewAppdata\Google"
 
 完成这个过程之后,以后电脑访问`C:\Users\Bin\AppData\Local\Google`就会因为它创建过软连接,而不直接打开它,而是连接到`D:\NewAppdata\Google`,从而不影响源文件的使用
 
-以上是原理部分,我为了更好地完成这个操作,写了一个exe脚本便于使用,已经开源[https://github.com/Wing900/c_disk_saver/blob/main]
+以上是原理部分,我为了更好地完成这个操作,写了一个exe脚本便于使用,已经[开源](https://github.com/Wing900/c_disk_saver/blob/main)
 
 ## 步骤 1
 
